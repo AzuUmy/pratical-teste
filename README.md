@@ -68,11 +68,14 @@ O projeto é organizado da seguinte forma:
     - **`router.ts`**: Configura as rotas da aplicação Vue.
   - **`App.vue`**: Componente raiz da aplicação Vue.
   - **`main.ts`**: Arquivo de entrada que inicializa a aplicação Vue.
- 
+
+
+
    ```bash
    cd pratical-teste
    cd teste-dev
    cd test-app
+
 
 2. **download e instalacao de dependencias nescessarias**
    npm install
