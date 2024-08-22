@@ -76,9 +76,4 @@ O projeto é organizado da seguinte forma:
 3. **inicializa o servidor da vite**
    npm run dev
 
-
-   e possivel utilizar o container docker para rodar aplicacao de forma mais direta
-
-   utiliza o seguinte 
-
    
