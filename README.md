@@ -66,7 +66,7 @@ O projeto é organizado da seguinte forma:
   - **`App.vue`**: Componente raiz da aplicação Vue.
   - **`main.ts`**: Arquivo de entrada que inicializa a aplicação Vue.
  
--   ```bash
+   ```bash
    cd pratical-teste
    cd teste-dev
    cd test-app
