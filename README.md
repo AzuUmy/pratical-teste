@@ -53,6 +53,9 @@ O projeto é organizado da seguinte forma:
    
 # Estrutura de Front-End
 
+
+## Configuração
+
 - **`src/`**: Contém o código-fonte da aplicação frontend.
   - **`components/`**: Contém componentes Vue reutilizáveis.
     - **`Templates/`**: Contém pastas de organização para componentes.
@@ -70,6 +73,7 @@ O projeto é organizado da seguinte forma:
    cd pratical-teste
    cd teste-dev
    cd test-app
+
 2. **download e instalacao de dependencias nescessarias**
    npm install
 
